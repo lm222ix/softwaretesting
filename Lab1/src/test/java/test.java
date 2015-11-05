@@ -14,12 +14,14 @@ public class test {
     @BeforeClass
     public static void TestSetup() {
         calc = new Calculator();
-        System.out.println("- - - Setup - - -\n");
+        System.out.println("- - - Setup - - -");
+        System.out.println("Calculator instanciated");
+        System.out.println();
     }
 
     @Before
     public void beforeTest() {
-        System.out.println("- - - Test - - -\n");
+        System.out.println("- - - Test - - -");
     }
 
     @Test

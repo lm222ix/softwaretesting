@@ -7,10 +7,10 @@ public class Calculator {
 
 
     public int addition(int n, int m) {
-        return 5;
+        return n+m;
     }
 
     public int subtraction(int n, int m) {
-       return 1;
+       return n-m;
     }
 }
