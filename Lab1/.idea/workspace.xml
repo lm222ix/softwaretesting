@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ac826e5-93c1-4e85-b7f0-84640dd28cf6" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.mylyn\.taskListIndex\segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.mylyn\.taskListIndex\segments_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.mylyn\repositories.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.mylyn\tasks.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.resources\.root\1.tree" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\com.yattasolutions.umllab.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.launching.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.m2e.discovery.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.monitor.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.tasks.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.pde.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.cvs.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.core\assumedExternalFilesCache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.core\externalFilesCache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.core\javaLikeNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.launching\.install.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.launching\libraryInfos.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2015\9\39\refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2015\9\39\refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.ltk.ui.refactoring\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.m2e.logback.configuration\0.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.m2e.logback.configuration\logback.1.5.0.20140606-0033.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.mylyn.trac.core\repositoryConfigurations" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.cache\clean-cache.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.contributions.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.contributors.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.extraData.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.mainData.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.manager\.fileTable.7" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.manager\.fileTable.8" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.manager\.fileTableLock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.namespaces.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.orphans.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.extensions\.table.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\.local_targets\1443084289369.target" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.pde.core\SavedExternalPluginList.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\.metadata\version.ini" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 1\Peer reviews to others\Domain Model peer review Sverker söderlund.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 1\Peer reviews to others\DomainModelpeerreviewAndreasBom.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 1\Recieved Peer reviews\PeerReview from John Herrlin, Rasmus Sjöström.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 1\Recieved Peer reviews\PeerReview from Sonny Kjellberg, Mattias, Adam.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 1\workshop1final.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.mylyn\.taskListIndex\segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.mylyn\.taskListIndex\segments_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.mylyn\.tasks.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.mylyn\repositories.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.mylyn\tasks.xml.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\14\c05eed729b6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\15\105769229b6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\19\705131a99c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\1b\e04ba7699c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\1d\5097bc6b9c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\21\a037837b9e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\2c\a0869a21a16200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\2d\f0346a79996200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\2f\e0ae15779f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\35\a02f4712a16200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\37\c0f44b6e9c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\3\10522b949e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\3\201913719e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\3a\90da7573996200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\3e\109b6e3c9c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\44\70bacb709f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\48\a03e7da29e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\49\205cd1ed986200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\4a\a0eec08b9e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\53\007b55699f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\59\d006f959a06200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\5d\7085a1759f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\64\60dcd5669c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\6\6058b82a9d6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\70\0053ec5c9c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\71\705bfd6a9b6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\72\80cec6729c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\73\20a9d52f9c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\7c\00de96639c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\80\0057c2d29c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\89\20b5e59d9e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\8\6061c7799f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\8b\90c5c4c79c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\8d\7088b0f79c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\8d\f081229e9c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\98\707f09509f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\9a\f0aab64c9f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\af\c023f5549c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\be\8045e2c19c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\c0\10f98dc19e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\c5\503c814ea06200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\c\e0cc1186996200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\cc\f0c2ab689e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\ce\90d16f439c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\d\20ef452ea16200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\d\9051d6669c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\de\90dc328c996200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\e6\b0369d5c9e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\e8\00e5b0499f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\e\106bdbb19e6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\f3\80b69f8e9c6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\f4\e07fc6819f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\f5\10332f8c996200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\f8\e0f49a519f6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.history\f\f0de9e239d6200151a9d9ccc3f11e130" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.projects\Workshop2\.indexes\af\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.projects\Workshop2\.indexes\e4\9\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.projects\Workshop2\.indexes\e4\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.projects\Workshop2\.markers" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.projects\Workshop2\.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.projects\Workshop2\.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.projects\Workshop2\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.root\.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.root\1.tree" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.resources\0.snap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\com.yattasolutions.umllab.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.launching.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.m2e.discovery.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.java.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.monitor.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.tasks.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.pde.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.cvs.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.debug.core\.launches\main.launch" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.debug.ui\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.debug.ui\launchConfigurationHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.fx.ide.css.cssext.ui\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.fx.ide.css.ui\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\1017853417.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\1045485630.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\115418958.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\1337478678.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\1787405673.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\2535676096.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\2674037006.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\2719829787.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\3045053200.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\323251068.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\355369697.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\3604769962.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\3656756579.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\3716007315.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\3954291735.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\4187470955.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\533208796.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\605290374.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\994834796.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\assumedExternalFilesCache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\externalFilesCache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\javaLikeNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.launching\.install.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.launching\libraryInfos.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\Workshop2\2015\9\39\refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\Workshop2\2015\9\39\refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.ltk.ui.refactoring\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.m2e.logback.configuration\0.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.m2e.logback.configuration\logback.1.5.0.20140606-0033.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.mylyn.trac.core\repositoryConfigurations" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.cache\clean-cache.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.contributions.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.contributors.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.extraData.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.mainData.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.manager\.fileTable.7" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.manager\.fileTable.8" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.manager\.fileTableLock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.manager\.tmp3357476643123442717.instance" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.namespaces.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.orphans.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.extensions\.table.1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\.local_targets\1443084427618.target" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.pde.core\SavedExternalPluginList.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.team.cvs.core\.running" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.xtend.ide\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.xtend.ide\resource.change.registry" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\.plugins\org.eclipse.xtext.builder\builder.state" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.metadata\version.ini" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\caches\identified-project-coordinates.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\caches\manual-mappings.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\_0.fdt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\_0.fdx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\_0.fnm" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\_0.frq" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\_0.nrm" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\_0.prx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\_0.tii" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\_0.tis" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\index\http___download_eclipse_org_recommenders_models_luna_\segments_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\repository\http___download_eclipse_org_recommenders_models_luna_\jre\jre\1.0.0-SNAPSHOT\_remote.repositories" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\repository\http___download_eclipse_org_recommenders_models_luna_\jre\jre\1.0.0-SNAPSHOT\jre-1.0.0-20140604.182326-1-call.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\repository\http___download_eclipse_org_recommenders_models_luna_\jre\jre\1.0.0-SNAPSHOT\maven-metadata-models.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\repository\http___download_eclipse_org_recommenders_models_luna_\jre\jre\1.0.0-SNAPSHOT\resolver-status.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\repository\http___download_eclipse_org_recommenders_models_luna_\org\eclipse\recommenders\index\0.0.0-SNAPSHOT\_remote.repositories" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\repository\http___download_eclipse_org_recommenders_models_luna_\org\eclipse\recommenders\index\0.0.0-SNAPSHOT\index-0.0.0-20140605.014212-1.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\repository\http___download_eclipse_org_recommenders_models_luna_\org\eclipse\recommenders\index\0.0.0-SNAPSHOT\maven-metadata-models.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\.recommenders\repository\http___download_eclipse_org_recommenders_models_luna_\org\eclipse\recommenders\index\0.0.0-SNAPSHOT\resolver-status.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\bin\Model\Boat$Type.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\bin\Model\Boat.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\bin\Model\IDTracker.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\bin\Model\Member.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\bin\main.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\src\Model\Boat.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\src\Model\IDTracker.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\src\Model\Member.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ludde\school reop\Workshop 2\Workshop2\src\main.java" afterPath="" />
+    </list>
+    <ignored path="TDD lab1 testing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TDD lab1 testing$test.coverage" NAME="test Coverage Results" MODIFIED="1446720330895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TDD lab1 testing$All_in_Lab1.coverage" NAME="All in Lab1 Coverage Results" MODIFIED="1446720504837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TDD lab1 testing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3475298">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/testClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TDD lab1 testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TDD lab1 testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lab1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TDD lab1 testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lab1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TDD lab1 testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lab1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TDD lab1 testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lab1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in Lab1">
+    <configuration default="false" name="testClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Lab1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testClass" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in Lab1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Lab1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <dir value="$PROJECT_DIR$/src/test" />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.testClass" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in Lab1" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in Lab1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.testClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ac826e5-93c1-4e85-b7f0-84640dd28cf6" name="Default" comment="" />
+      <created>1446715145508</created>
+      <option name="number" value="Default" />
+      <updated>1446715145508</updated>
+      <workItem from="1446715147824" duration="3005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3005000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testClass.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.637138">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3475298">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
