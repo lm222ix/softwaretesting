@@ -1,4 +1,6 @@
 import static org.junit.Assert.*;
+
+import junit.extensions.TestSetup;
 import org.junit.*;
 
 
@@ -7,31 +9,21 @@ import org.junit.*;
  */
 public class test {
 
-    static testClass testInstance;
+    private static Calculator calc;
 
     @BeforeClass
-    public static void SetUp() {
-        testInstance = new testClass();
-        System.out.println("before");
+    public static void TestSetup() {
+        calc = new Calculator();
+        System.out.println("Calculator instanciated.");
     }
 
-    @Before
-    public void beforeTest() {
-        System.out.println("Running test:");
-    }
     @Test
-    public void testAssertTrue() {
-        Assert.assertTrue(true);
-        System.out.println("truetest");
+    public void testAddition() {
+        Assert.assertEquals(5, calc.addition(2, 3));
     }
+
     @Test
-    public void testAssertInstanceNotNull() {
-        Assert.assertNotNull(this.testInstance);
-        System.out.println("instancetest");
-    }
-    @Test
-    public void testGetMessage() {
-        Assert.assertEquals("Hello World!", testInstance.getMsg());
-        System.out.println("Messagetest");
+    public void testSubtraction() {
+        Assert.assertEquals(1, calc.subtraction(3,2));
     }
 }
