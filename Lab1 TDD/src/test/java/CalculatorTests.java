@@ -16,9 +16,8 @@ public class CalculatorTests {
         c = new Calculator();
     }
 
-    @Test(expected = NullPointerException.class)
-    public void SummarizeNullInputTest() {
-        int[] arr = {1,2,3};
-        c.Sum(arr);
+    @Test(expected = IllegalArgumentException.class)
+    public void SumNullInputTest() {
+        c.Sum(null);
     }
 }

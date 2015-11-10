@@ -7,6 +7,6 @@ public class Calculator {
     }
 
     public int Sum(int[] arr) {
-        return arr[0];
+        return 0;
     }
 }
