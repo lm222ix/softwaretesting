@@ -8,7 +8,7 @@ public class Calculator {
 
     public int sum(int[] arr) {
 
-        if(arr != null) {
+        if(arr != null && arr.length != 0) {
             return 0;
         } else {
             throw new IllegalArgumentException("Illegal argument for this method.");
