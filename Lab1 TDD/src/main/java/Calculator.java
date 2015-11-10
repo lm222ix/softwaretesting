@@ -7,9 +7,11 @@ public class Calculator {
     }
 
     public int Sum(int[] arr) {
-        if(arr == null) {
-            throw new IllegalArgumentException();
+
+        if(arr != null) {
+            return 0;
+        } else {
+            throw new IllegalArgumentException("Illegal argument for this method.");
         }
-        return 0;
     }
 }
