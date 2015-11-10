@@ -27,4 +27,11 @@ public class CalculatorTests {
         c.sum(arr);
     }
 
+    // The array will be limited to something like 10 numbers, but should work for all integers.
+    @Test
+    public void SumShouldAccualySummarizesTheArray() {
+        int[] arr = {0,0,1,2,4,-2,-1,0,0};
+        Assert.assertEquals(c.sum(arr),4);
+    }
+
 }
