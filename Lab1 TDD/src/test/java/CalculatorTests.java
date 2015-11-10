@@ -18,6 +18,13 @@ public class CalculatorTests {
 
     @Test(expected = IllegalArgumentException.class)
     public void SumNullInputShouldThrowIllegalArgumentException() {
-        c.Sum(null);
+        c.sum(null);
     }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void SumEmptyInputShouldThrowIllegalArgumentException() {
+        int[] arr = {};
+        c.sum(arr);
+    }
+
 }

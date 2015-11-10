@@ -6,7 +6,7 @@ public class Calculator {
     public Calculator() {
     }
 
-    public int Sum(int[] arr) {
+    public int sum(int[] arr) {
 
         if(arr != null) {
             return 0;
