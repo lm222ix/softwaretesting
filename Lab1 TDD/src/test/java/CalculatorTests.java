@@ -17,7 +17,7 @@ public class CalculatorTests {
     }
 
     @Test(expected = IllegalArgumentException.class)
-    public void SumNullInputTest() {
+    public void SumNullInputShouldThrowIllegalArgumentException() {
         c.Sum(null);
     }
 }
