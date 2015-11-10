@@ -7,11 +7,18 @@ public class Calculator {
     }
 
     public int sum(int[] arr) {
-
         if(arr != null && arr.length != 0) {
-            return 4;
+            return sumHelper(arr);
         } else {
             throw new IllegalArgumentException("Illegal argument for this method.");
         }
+    }
+
+    private int sumHelper(int[] arr) {
+        int total = 0;
+        for(int i = 0; i<arr.length; i++) {
+            total += arr[i];
+        }
+        return total;
     }
 }
