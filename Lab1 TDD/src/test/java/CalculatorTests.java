@@ -42,11 +42,10 @@ public class CalculatorTests {
 
     @Test(expected = IllegalArgumentException.class)
     public void sumMaxArrayInputSizeTen() {
-        int[] arr = new int[15];
+        int[] arr = new int[10];
         c.sum(arr);
-        int[] arr2 = {1,2,3,4,5,6,7,8,9,10,11,12};
+        int[] arr2 = {0,1,2,3,4,5,6,7,8,9,10,11,12};
         c.sum(arr2);
-
     }
 
 
