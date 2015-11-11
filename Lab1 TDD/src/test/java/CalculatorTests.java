@@ -2,6 +2,7 @@ import junit.framework.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.junit.internal.runners.statements.Fail;
+import org.junit.rules.ExpectedException;
 import org.mockito.internal.matchers.Null;
 
 import java.util.Random;
@@ -37,7 +38,14 @@ public class CalculatorTests {
 
         int[] arr2 = {Integer.MAX_VALUE, Integer.MIN_VALUE, 2};
         Assert.assertEquals(1, c.sum(arr2));
+    }
 
+    @Test(expected = IllegalArgumentException.class)
+    public void sumMaxArrayInputSizeTen() {
+        int[] arr = new int[15];
+        c.sum(arr);
+        int[] arr2 = {1,2,3,4,5,6,7,8,9,10,11,12};
+        c.sum(arr2);
     }
 
 
